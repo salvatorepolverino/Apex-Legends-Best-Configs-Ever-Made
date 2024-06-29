@@ -13,5 +13,5 @@ I recommend to use RivaTuner to cap your FPS for a stable frame time gen and use
 
 - High end cpu & 240hz monitor: 239 fps cap
 
-- High end cpu & 360hz monitor: 239 fps cap
+- High end cpu & 360hz monitor: 359 fps cap
 
