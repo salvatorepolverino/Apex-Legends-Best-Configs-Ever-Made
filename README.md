@@ -1,7 +1,7 @@
 # ApexLegends-AutoExec-Videoconfig
 Optimized files and settings for Apex Legends (Season 21 tested)
 
-**Launch options**: +exec autoexec.cfg +cl_is_softened_locale 1 -dev -preload -high +fps_max 0 -novid -dxlevel95
+**Launch options**: +exec autoexec.cfg +cl_is_softened_locale 1 -dev -preload +fps_max 0 -novid -dxlevel95
 
 I recommend to use RivaTuner to cap your FPS for a stable frame time gen and use this settings:
 
